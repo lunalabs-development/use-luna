@@ -1,20 +1,20 @@
 import { SymbolMark } from "./SymbolMark";
 
 const features = [
-  "Natural conversations",
-  "Voice & text interaction",
+  'Type "Imagine" to generate',
+  'Type "Weather" for forecasts',
+  'Type "Voice" for voice mode',
+  "Built natively for iPhone",
+  "Fast & private",
   "Personalized assistance",
-  "Learning support",
-  "Research tools",
-  "Creative writing",
-  "Task management",
   "Instant answers",
+  "Shortcut-powered",
 ];
 
 const samples = [
-  { q: "Summarize this PDF for me.", a: "Done — 5 key points, 2 action items, and a TL;DR ready." },
-  { q: "Help me draft a polite decline.", a: "Here are three versions: warm, neutral, and brief." },
-  { q: "Explain transformers like I'm 12.", a: "Imagine a group of friends passing notes…" },
+  { q: "Imagine a neon koi in cosmic clouds", a: "Running Imagine — generating your image now." },
+  { q: "Weather", a: "72°F and sunny in your area. Light breeze this afternoon." },
+  { q: "Voice", a: "Voice mode activated. I'm listening…" },
 ];
 
 export function Luna() {

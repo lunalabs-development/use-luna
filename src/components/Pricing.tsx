@@ -5,13 +5,13 @@ const tiers = [
     name: "Free",
     price: "$0",
     sub: "Get started",
-    features: ["Basic AI access", "Limited Imagine generations", "Standard performance"],
+    features: ["Basic AI access", "Imagine, Weather & Voice", "Standard performance"],
   },
   {
     name: "Pro",
     price: "$12",
     sub: "per month",
-    features: ["Unlimited conversations", "Advanced AI capabilities", "Higher image limits", "Priority performance"],
+    features: ["Unlimited conversations", "Advanced AI capabilities", "Priority performance", "Early access to new features"],
     highlight: true,
   },
   {
