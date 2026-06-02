@@ -43,7 +43,9 @@ export function Hero() {
           </p>
           <div className="mt-10 flex flex-wrap gap-4" id="download">
             <a
-              href="#luna"
+              href="https://www.icloud.com/shortcuts/fe56557223e449cd9251de6b75a2ea81"
+              target="_blank"
+              rel="noopener noreferrer"
               className="rounded-full bg-violet-gradient text-primary-foreground font-medium px-7 py-3.5 glow hover:opacity-90 transition"
             >
               Download Luna
