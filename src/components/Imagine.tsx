@@ -1,15 +1,5 @@
 import { SymbolMark } from "./SymbolMark";
 
-const gallery = [
-  { label: "Photorealistic", grad: "from-orange-400 via-pink-500 to-violet-700" },
-  { label: "Digital art", grad: "from-cyan-300 via-violet-500 to-fuchsia-700" },
-  { label: "Fantasy", grad: "from-emerald-300 via-teal-500 to-indigo-800" },
-  { label: "Product", grad: "from-zinc-200 via-zinc-500 to-zinc-900" },
-  { label: "Branding", grad: "from-amber-300 via-rose-500 to-purple-800" },
-  { label: "Illustration", grad: "from-sky-300 via-blue-500 to-indigo-900" },
-  { label: "Logo", grad: "from-fuchsia-300 via-violet-500 to-violet-900" },
-  { label: "Concept", grad: "from-lime-300 via-emerald-500 to-cyan-900" },
-];
 
 export function Imagine() {
   return (
