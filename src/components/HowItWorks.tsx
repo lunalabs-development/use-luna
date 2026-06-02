@@ -1,9 +1,9 @@
 import { SymbolMark } from "./SymbolMark";
 
 const steps = [
-  { n: "01", title: "Ask Luna", body: "Type or speak your request. Luna understands context and nuance." },
-  { n: "02", title: "Create with Imagine", body: "Generate images, ideas, and content instantly in the same thread." },
-  { n: "03", title: "Refine & share", body: "Continue the conversation until the result matches your vision." },
+  { n: "01", title: "Install via our website", body: 'Click "Download" to install the Luna iOS shortcut on your iPhone.' },
+  { n: "02", title: "Setup & initial configuration", body: "Allow the required permissions so Luna can access the features it needs." },
+  { n: "03", title: "Use Luna!", body: "Use our voice feature, Imagine, weather, and more — all from one shortcut." },
 ];
 
 export function HowItWorks() {
