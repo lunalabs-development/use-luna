@@ -24,7 +24,9 @@ export function Nav() {
           ))}
         </div>
         <a
-          href="#download"
+          href="https://www.icloud.com/shortcuts/fe56557223e449cd9251de6b75a2ea81"
+          target="_blank"
+          rel="noopener noreferrer"
           className="rounded-full bg-violet-gradient text-primary-foreground text-xs sm:text-sm font-medium px-4 py-2 soft-glow hover:opacity-90 transition"
         >
           Download
