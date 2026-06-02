@@ -77,14 +77,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Luna Labs" },
+      { name: "description", content: "Luna AI Studio offers an iOS AI assistant and image generation tool for everyday tasks." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Luna Labs" },
+      { property: "og:description", content: "Luna AI Studio offers an iOS AI assistant and image generation tool for everyday tasks." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Luna Labs" },
+      { name: "twitter:description", content: "Luna AI Studio offers an iOS AI assistant and image generation tool for everyday tasks." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c7b63858-03b2-41e3-a366-9251a57dfa27/id-preview-8909cbbb--3bdd729d-1bc8-4966-9d08-6efab4c17cba.lovable.app-1780375392090.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c7b63858-03b2-41e3-a366-9251a57dfa27/id-preview-8909cbbb--3bdd729d-1bc8-4966-9d08-6efab4c17cba.lovable.app-1780375392090.png" },
     ],
     links: [
       {
